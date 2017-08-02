@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #1E90FF;
+    margin: 0;
+    padding: 0 10px;
+    line-height: 60px;
+}
+
+nav {
+    border-bottom: 1px solid darkgrey;
+}
