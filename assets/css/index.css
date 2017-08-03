@@ -13,3 +13,13 @@ h1 {
 nav {
     border-bottom: 1px solid darkgrey;
 }
+
+.command-item {
+    border: 2px solid purple;
+}
+
+.command-item > * {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
