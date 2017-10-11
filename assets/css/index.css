@@ -11,15 +11,32 @@ h1 {
 }
 
 nav {
+    text-align: center;
     border-bottom: 1px solid darkgrey;
 }
 
+.command-row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.command-column {
+    width: 40%;
+}
+
 .command-item {
+    padding: 10px 20px;
     border: 2px solid purple;
 }
 
+.command-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    padding: 10px 20px;
+}
+
 .command-item > * {
-    width: 40%;
-    display: inline-block;
-    vertical-align: top;
+    margin: 0;
 }
