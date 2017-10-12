@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: #1E90FF;
+    color: pink;
     margin: 0;
     padding: 0 10px;
     line-height: 60px;
@@ -26,7 +26,7 @@ nav {
 
 .command-item {
     padding: 10px 20px;
-    border: 2px solid purple;
+    border: 2px solid pink;
 }
 
 .command-item {
